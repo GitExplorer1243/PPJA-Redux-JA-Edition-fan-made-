@@ -1,5 +1,5 @@
-# PPJA-Redux-JA-Edition-fan-made-
-Basically the Java Assets version of the recent version of PPJA, unofficial and fan-made. Features all of the Redux stuff in JA.
+# PPJA Redux in Java Assets (UNOFFICIAL SDV MOD)
+Basically the Java Assets version of the recent DGA version of PPJA, unofficial and fan-made. Features all of the Redux/DGA stuff in JA.
 
 Things that it will do:
 
@@ -45,3 +45,20 @@ Things that it will do:
 - (Addition by me) Green Bell Peppers will grant 60% of harvest rewards and sell price than Yellow, Orange, and Red ones
 - Will change the Lettuce, Onion, and Red Onion sprites to the new sprites
 - Will rebalance gift taste values: Leo will have simular gift tastes to Jas and Vincent, and will make Emily feel more positive about items related to clothing/sewing.
+
+(Mizu's Flowers)
+- Will merge seasonal Roses to a config option
+
+(More Recipes)
+- Will add the "peanut_butter_item" tag to Peanut Butter
+
+(More Trees)
+- Will add the Bitter Orange (with tag), Pistachio (also with tag), and Poison Apple (universally Hated!) trees
+- Will change the Asian Pear, Granny Smith Apple, Ume, and Yuzu sprites to the new sprites
+- Will change the Avocado, Camphor, Cinnamon, Fig, Pear, and Persimmon tree sprites to the new tree sprites
+
+(Starbrew Valley)
+- Will rebalance gift tast values: Items such as Tonic and Seltzer Waters will be universally Disliked, Lewis will Hate and Marie will Dislike The Mayor's Shorts drink, and Penny will Dislike alcoholic beverages
+
+(Tailor Mouse)
+- Will add the MFM background from the DGA version
