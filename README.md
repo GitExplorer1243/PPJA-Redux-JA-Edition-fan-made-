@@ -1,5 +1,5 @@
 # PPJA Redux in Java Assets (UNOFFICIAL SDV MOD)
-Basically the Java Assets version of the recent DGA version of PPJA, unofficial and fan-made. Features all of the Redux/DGA stuff in JA.
+Basically the Java Assets version of the recent (very buggy) DGA version of PPJA, unofficial and fan-made. Features all of the Redux/DGA stuff in JA.
 
 Things that it will do:
 
@@ -63,3 +63,10 @@ Things that it will do:
 
 (Tailor Mouse)
 - Will add the MFM background from the DGA version
+
+How to install:
+
+1. Download the pack through the Releases section of the page.
+2. Extract the .zip file to any place you like.
+3. Copy the contents to your Mods folder in your location where Stardew Valley is located.
+4. Enjoy PPJA's new contents in JA without all the bugs, errors, and crashes!
