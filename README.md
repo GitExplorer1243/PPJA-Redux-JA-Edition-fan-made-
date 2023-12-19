@@ -30,6 +30,7 @@ Things that it will do:
 
 (Farmer to FLorist)
 - Will rebalance gift taste values: Makes the Dried Poison item no longer giftable
+- Rebalance of sell prices for Year 1 flower crops so they aren't overpowered this time (140 gold for a 45-gold flower that grows in seven days? NUTS!) (Addition by me)
 
 (Fresh Meat)
 - Will add Chicken Wing and Drumstick drops to Chickens
@@ -40,8 +41,8 @@ Things that it will do:
 
 (Fruits and Veggies)
 - Will add the "bell_pepper_item" context tag
-- Will add the Bay, Catnip, Carolina Reaper, Champagne Grape (with it's tag), Ghost Pepper, Poblano Chille, Scotch Bonnet, and Serrano Chile crops
-- The system in which harvesting Bell Peppers early will produce Green Bell Peppers, and on time with Yellow, Orange, and Red Bell Peppers (hance the original name of the Bell Pepper will be Red Bell Pepper)
+- Will add the Bay, Catnip (with the system of the price being 25 gold if your pet is a cat, or 50 if it's a dog), Carolina Reaper, Champagne Grape (with it's tag), Ghost Pepper, Poblano Chille, Scotch Bonnet, and Serrano Chile crops
+- A system with the Bell Peppers that will produce the Green, Yellow, Orange, and Red Bell Peppers (hance the original name of the Bell Pepper will be Red Bell Pepper). I'm thinking about either a random chance on harvest to produce a yellow, orange, or red one if you are lucky, but you might get a green one instead (Doing the DGA system of harvesting these is possibly impossible with JA).
 - (Addition by me) Green Bell Peppers will grant 60% of harvest rewards and sell price than Yellow, Orange, and Red ones
 - Will change the Lettuce, Onion, and Red Onion sprites to the new sprites
 - Will rebalance gift taste values: Leo will have simular gift tastes to Jas and Vincent, and will make Emily feel more positive about items related to clothing/sewing.
