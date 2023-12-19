@@ -1,5 +1,5 @@
 # PPJA Redux in Java Assets (UNOFFICIAL SDV MOD)
-Basically the Java Assets version of the recent (very buggy) DGA version of PPJA, unofficial and fan-made. Features all of the Redux/DGA stuff in JA.
+Basically the Java Assets version of the recent (very buggy) DGA version of PPJA, unofficial and fan-made. Features all of the Redux/DGA stuff in JA. I don't know if I might be able to put this in Nexus Mods.
 
 Things that it will do:
 
@@ -9,6 +9,7 @@ Things that it will do:
 - Implement the letter backgrounds found in the DGA version
 - Make the items gated behind the island letter move to the island shop
 - Change Shane and Pam's alcohol gift presences to Dislike or Hate, and Leo to Hate
+- Port the unofficial Artisan Valley Progression Update
   
 (Artisan Valley)
 - Will add the Cafe au Lait and Dark Coffee items
