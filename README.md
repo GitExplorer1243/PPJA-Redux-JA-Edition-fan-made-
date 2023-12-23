@@ -10,7 +10,7 @@ General
 - Implement the letter backgrounds found in the DGA version
 - Make the items gated behind the island letter move to the island shop
 - Change Shane and Pam's alcohol gift presences to Dislike or Hate, and Leo to Hate
-- Port the unofficial Artisan Valley Progression Update, as well as Champagne Wishes (maerumaer2u), Fizzy Drinks (MelindaC), and Mae's Trees (Maeflowers) mods. I know that some stuff from those mods are existing, like Champagne Wishes' Champagne Grape, and Fizzy Drink's Bitter Orange. The PPJA versions of those items are added in this unofficial update as well as those mods to make them not only just a crop/tree you can grow and sell. This means that the items from those mods are added in this update.
+- Port the unofficial Artisan Valley Progression Update, as well as Champagne Wishes (maerumaer2u), Fizzy Drinks (MelindaC), Shaved Ice and Frozen Treats (hadiwrites42), and Mae's Trees (Maeflowers) mods. I know that some stuff from those mods are existing, like Champagne Wishes' Champagne Grape, and Fizzy Drink's Bitter Orange. The PPJA versions of those items are added in this unofficial update as well as those mods to make them not only just a crop/tree you can grow and sell. This means that the items from those mods are added in this update.
   
 Artisan Valley
 -----
@@ -86,6 +86,6 @@ How to install
 2. Extract the .zip file to any place you like.
 3. Download the current version of the PPJA suite of mods (the current Json Assets version, not the DGA version)
 4. Copy the contents to your Mods folder in your location where Stardew Valley is located.
-5. Enjoy PPJA's new contents in Json Assets, as well as new fan-made content, without all the bugs, errors, and crashes!
+5. Enjoy PPJA's new contents in Json Assets, as well as new fan-made content and ported mods, without all the bugs, errors, and crashes!
 
 Project Populate Json Assets made by paradigmnomad, credit to him
