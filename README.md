@@ -37,7 +37,7 @@ Fantasy Crops
 Farmer to FLorist
 -----
 - Will rebalance gift taste values: Makes the Dried Poison item no longer giftable
-- Rebalance of sell prices for Year 1 flower crops so they aren't overpowered this time (140 gold for a 45-gold Carnation that grows in seven days? NUTS!) (Addition by me)
+- Rebalance of sell prices for all crops so they aren't overpowered this time (140 gold for a 45-gold Carnation that grows in seven days? NUTS!) (Addition by me)
 
 Fresh Meat
 -----
