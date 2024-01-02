@@ -11,6 +11,7 @@ General
 - Make the items gated behind the island letter move to the island shop.
 - Change Shane and Pam's alcohol gift presences to Dislike or Hate, and Leo to Hate.
 - Port the unofficial Artisan Valley Progression Update, as well as Champagne Wishes (maerumaer2u), Fizzy Drinks (MelindaC), Shaved Ice and Frozen Treats (hadiwrites42), and Mae's Trees (Maeflowers) mods. I know that some stuff from those mods are existing, like Champagne Wishes' Champagne Grape, and Fizzy Drink's Bitter Orange. The PPJA versions of those items are added in this unofficial update as well as those mods to make them not only just a crop/tree you can grow and sell. This means that the items from those mods are added in this update.
+- I don't know if I want to keep the "MaxIncreasePerFarmLevel" part of all crops, because it is incorrectly documented in the Json Assets mod as how many farming EXP it gives on harvest. What it actually does is increase the amount of crops harvested based on your farming skill level.
   
 Artisan Valley
 -----
