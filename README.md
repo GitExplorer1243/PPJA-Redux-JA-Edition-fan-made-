@@ -19,6 +19,7 @@ Artisan Valley
 - Will add the "peanut_butter_item" tag to Smooth Peanut Butter.
 - Will reimplement pepper extracts.
 - Will make ice creams and orange sherbert purchasable from the Ice Cream Stand.
+- Possibly rebalancing of some machines (addition by me).
 
 Christmas Sweets
 -----
@@ -57,6 +58,7 @@ Fruits and Veggies
 - (Addition by me) Green Bell Peppers will grant 60% of harvest rewards and sell price than Yellow, Orange, and Red ones.
 - Will change the Lettuce, Onion, and Red Onion sprites to the new sprites.
 - Will rebalance gift taste values: Leo will have simular gift tastes to Jas and Vincent, and will make Emily feel more positive about items related to clothing/sewing.
+- Possibly a few more crops to grow in the Winter (A few added for Year 1, some for Year 2, and possibly Year 3). There is like five crops (Bay Leaf, Ginseng (all season crop), Elderberry (year 2 crop), Juniper Berry, and Mint) you can grow in Winter (addition by me).
 
 Mizu's Flowers
 -----
